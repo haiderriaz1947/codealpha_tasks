@@ -58,41 +58,6 @@ The CodeAlpha Data Science internship provides four possible tasks, from which i
 
 ---
 
-## 📂 Repository Structure
-
-```text
-codealpha_tasks/
-│
-├── README.md
-│
-├── Task-1/
-│   ├── README.md
-│   ├── notebook.ipynb
-│   ├── dataset/
-│   └── outputs/
-│
-├── Task-2/
-│   ├── README.md
-│   ├── notebook.ipynb
-│   ├── dataset/
-│   └── outputs/
-│
-├── Task-3/
-│   ├── README.md
-│   ├── notebook.ipynb
-│   ├── dataset/
-│   └── outputs/
-│
-└── Task-4/
-    ├── README.md
-    ├── notebook.ipynb
-    ├── dataset/
-    └── outputs/
-```
-
-Only the tasks selected for final submission will be included as completed projects.
-
----
 
 # 📊 Task Details
 
