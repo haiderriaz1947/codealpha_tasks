@@ -227,94 +227,10 @@ Through these projects, I aim to improve my practical understanding of:
 9. Predictive analytics
 10. Extracting meaningful insights from data
 
-The CodeAlpha offer letter describes the internship as a learning opportunity focused on developing new skills and gaining deeper understanding through hands-on application.
-
 ---
 
-# 📅 Internship Timeline
 
-| Milestone                | Date              |
-| ------------------------ | ----------------- |
-| Offer Letter             | 1 August 2026     |
-| Internship Start         | 10 August 2026    |
-| Internship End           | 10 September 2026 |
-| Task Submission Deadline | 10 September 2026 |
 
-## The offer letter is dated **1 August 2026** and confirms the internship period from **10 August 2026 to 10 September 2026**.
 
-# 📱 LinkedIn
 
-As part of the internship instructions, interns are encouraged to share their internship/project status on LinkedIn and tag **@CodeAlpha**. Project explanation videos may also be posted with the relevant GitHub repository link.
 
-### Project Posts
-
-* **Task 1:** Coming Soon
-* **Task 2:** Coming Soon
-* **Task 3:** Coming Soon
-* **Task 4:** Coming Soon
-
----
-
-# 📤 Submission
-
-The completed projects will be submitted through the official CodeAlpha submission process.
-
-The internship instructions require interns to:
-
-* Complete the assigned projects
-* Upload source code to GitHub
-* Share project explanation posts where applicable
-* Submit completed tasks through the designated submission form
-
----
-
-# 🏆 Internship Benefits
-
-According to the CodeAlpha internship information, the program includes potential benefits such as:
-
-* Internship Offer Letter
-* QR-Verified Completion Certificate
-* Unique ID Certificate
-* Letter of Recommendation based on performance
-* Job Opportunities / Placement Support
-* Resume Building Support
-
----
-
-# 👤 About Me
-
-**Ali Haider**
-
-Student and aspiring data professional interested in:
-
-* Data Science
-* Machine Learning
-* Data Analytics
-* Business Intelligence
-* Predictive Analytics
-
-This repository documents my practical learning and project work during the **CodeAlpha Data Science Internship**.
-
----
-
-# ⭐ Acknowledgement
-
-I would like to thank **CodeAlpha** for providing this internship opportunity and a practical learning environment to strengthen my skills through hands-on Data Science and Machine Learning projects.
-
----
-
-## 🔗 Repository
-
-**GitHub:**
-https://github.com/haiderriaz1947/codealpha_tasks
-
-**Organization:** CodeAlpha
-**Domain:** Data Science
-**Batch:** August 2026
-**Intern:** Ali Haider
-
----
-
-## 📄 Disclaimer
-
-This repository is maintained for **educational and internship task-submission purposes**. The projects represent my own learning, implementation, analysis, and experimentation during the CodeAlpha Data Science Internship.
