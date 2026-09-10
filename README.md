@@ -1,201 +1,94 @@
-# CodeAlpha Internship – Data Science Tasks
+# 📊 CodeAlpha Internship – Data Science Task Submissions
 
 ![CodeAlpha](https://img.shields.io/badge/Internship-CodeAlpha-blue)
 ![Domain](https://img.shields.io/badge/Domain-Data%20Science-green)
 ![Batch](https://img.shields.io/badge/Batch-August%202026-orange)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 > **Data Science Internship | CodeAlpha | August 2026 Batch**
 
-This repository contains my **Data Science internship task submissions** for CodeAlpha. It includes practical projects involving data analysis, machine learning, predictive modeling, and data visualization.
+## 📊 Project Details
+
+### 🔹 1. Advanced EDA & Regression – Iris Dataset
+
+**Notebook:** `advanced-eda-regression-pivot-table-analysis.ipynb`
+
+An in-depth exploratory analysis of the classic Iris dataset, going beyond basic EDA into pivot-table-driven insights and regression analysis of flower measurements.
+
+**What's inside:**
+- Data loading, cleaning, and summary statistics
+- Univariate & multivariate visualizations (pair plots, correlation heatmaps)
+- Pivot table analysis across species
+- Regression / classification modeling on sepal & petal measurements
+- Model evaluation and interpretation
 
 ---
 
-## 👨‍💻 Intern Information
+### 🔹 2. Car Price Prediction with Machine Learning
 
-| Detail               | Information       |
-| -------------------- | ----------------- |
-| **Name**             | Ali Haider        |
-| **Registration No.** | CA/DF1/232922     |
-| **Domain**           | Data Science      |
-| **Organization**     | CodeAlpha         |
-| **Batch**            | August 2026       |
-| **Internship Start** | 10 August 2026    |
-| **Internship End**   | 10 September 2026 |
+**Notebook:** `Car Price Prediction with ML.ipynb`
 
-The official offer letter confirms my selection for the **Data Science Internship at CodeAlpha**, effective from **10 August 2026 to 10 September 2026**.
+Predicts the resale price of used cars based on features such as brand, age, mileage, fuel type, and transmission.
 
----
-
-## 📌 About the Internship
-
-The CodeAlpha Data Science internship provides practical experience in:
-
-* Data Science
-* Machine Learning
-* Statistical Modeling
-* Data Preprocessing
-* Exploratory Data Analysis
-* Predictive Modeling
-* Data Visualization
-* Real-world data-driven problem solving
-
-The official internship instructions mention working with technologies such as **Python, R, Pandas, Scikit-learn, and TensorFlow**, depending on the project.
+**What's inside:**
+- Data cleaning & preprocessing
+- Feature engineering (car age, categorical encoding)
+- Feature selection
+- Regression model training (e.g., Linear Regression / Random Forest)
+- Model evaluation (R², MAE/RMSE)
+- Visualization of predicted vs. actual prices
 
 ---
 
-## 🎯 Internship Tasks
+### 🔹 3. Sales Prediction Using Advertising Spend
 
-The CodeAlpha Data Science internship provides four possible tasks, from which interns are instructed to complete **any 2 or 3 tasks**.
+**Notebook:** `sales-prediction-marketing-mix-analysis.ipynb`
 
-| Task       | Project                                    | Focus                             |
-| ---------- | ------------------------------------------ | --------------------------------- |
-| **Task 1** | Iris Flower Classification                 | Classification / Machine Learning |
-| **Task 2** | Unemployment Analysis with Python          | Data Analysis / Visualization     |
-| **Task 3** | Car Price Prediction with Machine Learning | Regression / Machine Learning     |
-| **Task 4** | Sales Prediction using Python              | Regression / Forecasting          |
+Analyzes how advertising spend across TV, radio, and newspaper channels drives sales, and builds a regression model to predict sales from marketing spend.
 
----
-
-
-# 📊 Task Details
-
-## 🔹 Task 1 – Iris Flower Classification
-
-The objective is to develop a machine learning classification model using measurements of Iris flowers.
-
-The model classifies flowers into three species:
-
-* Setosa
-* Versicolor
-* Virginica
-
-### Key Activities
-
-* Load and explore the dataset
-* Perform data preprocessing
-* Split data into training and testing sets
-* Train a classification model
-* Evaluate model accuracy and performance
-* Analyze prediction results
-
-The official task specifically focuses on classification and evaluating the model using test data.
+**What's inside:**
+- Data cleaning & transformation
+- Marketing mix / channel-wise impact analysis
+- Feature selection
+- Regression modeling & forecasting
+- Business insights for marketing strategy
 
 ---
 
-## 🔹 Task 2 – Unemployment Analysis with Python
+## 🗂️ Repository Structure
 
-This project analyzes unemployment-rate data using Python.
+```
+codealpha_tasks/
+├── advanced-eda-regression-pivot-table-analysis.ipynb   # Task 1: Iris EDA & Regression
+├── Iris.csv                                              # Dataset for Task 1
+├── Car Price Prediction with ML.ipynb                    # Task 2: Car Price Prediction
+├── car data.csv                                          # Dataset for Task 2
+├── sales-prediction-marketing-mix-analysis.ipynb         # Task 3: Sales Prediction
+├── Advertising.csv                                       # Dataset for Task 3
+├── .gitignore
+└── README.md
+```
 
-### Key Activities
+## 📈 Key Learnings
 
-* Data cleaning
-* Exploratory Data Analysis
-* Data visualization
-* Unemployment trend analysis
-* Investigation of COVID-19 impact
-* Identification of patterns and seasonal trends
-* Generation of economic and social insights
-
-The task instructions specifically require investigating unemployment trends and the impact of COVID-19.
-
----
-
-## 🔹 Task 3 – Car Price Prediction
-
-This project focuses on predicting car prices using machine learning.
-
-Potential input features include:
-
-* Brand goodwill
-* Horsepower
-* Mileage
-* Other relevant vehicle attributes
-
-### Key Activities
-
-* Data preprocessing
-* Feature engineering
-* Feature selection
-* Regression modeling
-* Model evaluation
-* Data visualization
-* Price prediction
-
-The official task describes this as a regression-based machine learning problem using car-related features.
-
----
-
-## 🔹 Task 4 – Sales Prediction using Python
-
-This project focuses on predicting sales based on factors such as:
-
-* Advertising expenditure
-* Target segment
-* Platform
-
-### Key Activities
-
-* Data cleaning
-* Data transformation
-* Feature selection
-* Regression / forecasting
-* Advertising impact analysis
-* Business and marketing insights
-
-The official instructions emphasize using the results to generate actionable insights for marketing strategies.
-
----
-
-# 🛠️ Technologies Used
-
-### Programming Language
-
-* Python
-
-### Libraries & Tools
-
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-learn
-* Jupyter Notebook
-
-### Concepts
-
-* Data Cleaning
-* Data Preprocessing
-* Exploratory Data Analysis
-* Data Visualization
-* Feature Engineering
-* Classification
-* Regression
-* Model Evaluation
-* Predictive Analytics
-* Forecasting
-
----
-
-# 📈 Learning Objectives
-
-Through these projects, I aim to improve my practical understanding of:
+Through these projects, I strengthened my practical skills in:
 
 1. Working with real-world datasets
 2. Data cleaning and preprocessing
 3. Exploratory Data Analysis
 4. Data visualization
-5. Machine learning
-6. Classification algorithms
-7. Regression algorithms
-8. Model evaluation
-9. Predictive analytics
-10. Extracting meaningful insights from data
+5. Regression modeling
+6. Feature engineering & selection
+7. Model evaluation
+8. Extracting actionable business insights from data
 
 ---
 
+## 🤝 Connect With Me
 
+**Ali Haider**
+🔗 _www.linkedin.com/in/ali-haider-data-analyst_
+📧 _03008024967_
 
-
-
-
+---
